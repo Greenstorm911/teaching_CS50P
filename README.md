@@ -26,6 +26,8 @@ what is data type:
             .title:
             .split:
         how to use a method of a data type
+
+    what is an integer
         
 what is an variable?
     # here
