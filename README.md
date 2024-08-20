@@ -46,3 +46,5 @@ what is an variable?
 
 
 
+# git commends 
+    git clone https://link  => to clone a github repo
