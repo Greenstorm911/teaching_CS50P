@@ -1,7 +1,7 @@
 # teaching_CS50P
 
 
-### commend line interfce commends
+### commend line interfce commends 
 
     cd baz kardan poshe
     ls neshan dadan file ha va folder ha 
@@ -48,3 +48,12 @@ what is an variable?
 
 # git commends 
     git clone https://link  => to clone a github repo
+
+
+#what it the diffrence between while and for
+
+
+
+sep:
+
+end:
